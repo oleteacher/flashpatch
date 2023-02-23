@@ -20,3 +20,5 @@ If you want to scan a certain directory or patch a specifig file, specify it as 
 On Windows 7 and below, just download and install it from the sites mentioned [here](https://gist.github.com/KuromeSan/56d8b724c0696b54f9f81994ae3591d1#finally)
 On Windows 10, you need to download the latest Flash player from KB4580325 and reinstall its contents.
 For this, download reinst_flash_w10.cmd to the same directory as the flashpatch_???.exe files and run it, it downloads mentioned updated flash version and copies it to System directory again.
+
+Gist added as extra info: https://gist.github.com/oleteacher/f7f26d6402a53e0c611ad89e4d86d8e3
